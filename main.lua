@@ -1,3 +1,15 @@
+--If re executed this will delete the old gui
+--local versionERT = 1
+
+
+--game.Players.LocalPlayer.Backpack
+--if game.Players.LocalPlayer.Backpack.VerHAHA.
+
+
+--local VErsionIdicatorAntiBugMaker = Instance.new("Part")
+--VErsionIdicatorAntiBugMaker.Name = VerHAHA
+--VErsionIdicatorAntiBugMaker.Parent = game.Players.LocalPlayer.Backpack
+
 local Converted = {
 	["_incognito"] = Instance.new("ScreenGui");
 	["_main"] = Instance.new("Frame");
@@ -105,7 +117,7 @@ Converted["_sidebar"].Size = UDim2.new(0, 131, 0, 394)
 Converted["_sidebar"].Name = "sidebar"
 Converted["_sidebar"].Parent = Converted["_main"]
 
-Converted["_logo"].Image = "rbxassetid://17463669567"
+Converted["_logo"].Image = "rbxassetid://7279137105"
 Converted["_logo"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_logo"].BackgroundTransparency = 1
 Converted["_logo"].BorderColor3 = Color3.fromRGB(0, 0, 0)
