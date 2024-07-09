@@ -1,14 +1,3 @@
--- Generated using RoadToGlory's Converter v1.1 (RoadToGlory#9879)
-
--- Instances:
-local detectedMode = false
-if detectedMode then
-    game.CoreGui.incognito.Parent = game.Workspace -- super detected, change b4 rel
-else
-    game.CoreGui.incognito:Remove()
-end
-
-
 local Converted = {
 	["_incognito"] = Instance.new("ScreenGui");
 	["_main"] = Instance.new("Frame");
